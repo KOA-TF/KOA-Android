@@ -6,6 +6,12 @@
 [![targetSdkVersion](https://img.shields.io/badge/targetSdkVersion-33-orange)](https://developer.android.com/distribute/best-practices/develop/target-sdk)
 <br/>
 
+## Overview
+> 큐시즘 앱 TF
+
+- 개발 진행 기간 : 2023.08.11 ~
+- 개발자 : 26,27기 안드로이드 개발자 신민서 
+
 
 ## Features
 

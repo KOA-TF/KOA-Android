@@ -14,7 +14,9 @@
 
 
 ## Features
-
+- 0. 전체 공지 알림 / 운영진별 공지 등록 기능 
+- 1. 출석 체크
+- 2. 팀 매칭 
 
 
 ## Development Information
